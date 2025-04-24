@@ -1,6 +1,6 @@
 # AI Workshop: Human Face Recognition & Attendance Counting
 
-Welcome to the AI Workshop! 🎉 This repository contains all the necessary materials to train a YOLO model for human face recognition and deploy it on a Streamlit web application.
+Extented from Google developer AI Workshop! 🎉 This repository contains all the necessary materials to train a YOLO model for human face recognition and deploy it on a Streamlit web application.
 
 ## Prerequisites ✅
 
@@ -17,7 +17,6 @@ We will be using the following platforms:
 - [Google Colab](https://colab.research.google.com/) (for model training)
 - [Streamlit](https://streamlit.io/) (for web deployment)
 
-## If you haven't register an account before, please go ahead and register one.
 
 ## Step 1: Dataset Preparation 📂
 
@@ -82,8 +81,11 @@ Refer to the following [Google Colab Notebook](https://colab.research.google.com
 ---
 
 ## Final Output 🎯
+![attendancetracker1](https://github.com/user-attachments/assets/1d269f32-c29d-4e08-ad94-020d6a668541)
 
-✅ Recognizes human faces & counts attendance accurately!  
-Hope you enjoy the workshop. Have a great day! 🎉  
-**Don't forget to mark your attendance!** ✅
+![attendancetracker2](https://github.com/user-attachments/assets/578930d3-684b-4963-82f3-5b171aa9cc21)
+
+![attendance_tracker 3](https://github.com/user-attachments/assets/a724d829-e9ce-4a23-a639-5463f0e034ab)
+
+![attendance_tracker 4](https://github.com/user-attachments/assets/6c5a0420-76d2-4d83-a069-8b95d704c9aa)
 
